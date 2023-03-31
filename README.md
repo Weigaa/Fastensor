@@ -25,7 +25,7 @@ For model savings:
 
 run: 
 
-`cd Model Saving`
+`cd model saving`
 
 `python testmodel.py`
 
